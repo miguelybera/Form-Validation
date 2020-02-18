@@ -1,0 +1,44 @@
+body{
+    background-color: #262626;
+}
+.FORM2{
+    width: 450px;
+    height: 300px;
+    margin: 20px auto;
+    
+    margin: 20px auto;
+    align-self: center;
+    border: 5px solid white;
+    
+    }
+.first{
+width: 200px;
+height: 230px;
+margin: 20px auto;
+
+margin: 20px auto;
+float: left;
+margin-left: 20px;
+
+}
+
+.second{
+    width: 200px;
+    height: 230px;
+    margin: 20px auto;
+    
+    margin: 20px auto;
+    float: left;
+    }
+    input { 
+        margin-bottom: 15px; }
+        
+        select { 
+            margin-bottom: 15px;
+         }
+    label{
+        color: #a5a6a0;
+        
+    
+    }
+    
